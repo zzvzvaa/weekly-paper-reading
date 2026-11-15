@@ -30,6 +30,6 @@ papers/
 ├── 2026-11-15/
 │   ├── Privacy-Preserving_Similarity_Queries_for_Outsourced_Trajectory_Data.pdf
 │   └── A More Secure and Efficient Privacy-preserving Collaborative Filtering System.pdf
-└── 2026-11-22/
+├── 2026-11-22/
 │    ├── Efficient_privacy-preserving_LSTM_inference_on_encrypted_sequential_data.pdf
 │    └── ESWA-Optimized_homomorphic_linear_computation_in_privacy-preserving_CNN_inference.pdf
